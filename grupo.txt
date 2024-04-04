@@ -1,9 +1,0 @@
-Os participantes desse grupo são:
-
-Gustavo Avalos de Almeida
-Hondenis Santos Garcia
-Lucas Eduardo Romero
-
-// As configurações para o Servidor.py e Cliente.py estão da seguinte maneiras
-1 - Ambos usam a porta 25565 (Configurável no script)
-2 - O ip do servidor está configurado como 192.168.1.101 (Configurável no script)
